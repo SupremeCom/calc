@@ -1,0 +1,15 @@
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.exe
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.deps.json
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.dll
+D:\projects\calc\Loops\bin\Debug\net5.0\ref\Loops.dll
+D:\projects\calc\Loops\bin\Debug\net5.0\Loops.pdb
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.dll
+D:\projects\calc\Loops\obj\Debug\net5.0\ref\Loops.dll
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.pdb
+D:\projects\calc\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
